@@ -21,18 +21,19 @@ $\Omega$：拓撲環場自旋角速度 / 模式慣性（Topological Spin / Syste
 增益調諧與系統弛豫（Gain Tuning & Structural Relaxation）
 當環境張力超過系統處理頻寬（Bandwidth）或內部動能不足時，系統會啟動相變與弛豫（Relaxation）機制，調低控制增益（$\Pi \downarrow$）並收縮幾何邊界，釋放內部應力以保護核心結構。
 三、 三維拓撲結構 (Topological Architecture)
+
+```text
       [ 外部環境 η ]
              │ (Sensory s / Active a)
 ┌────────────▼────────────┐  <--- 外層高阻抗剪切帶 (High Z, High Π)
-│  Conditioned Filter Zone │  
+│ Conditioned Filter Zone │  
 │ ┌─────────────────────┐ │
-│ │  Pure Core Pipeline │ │  <--- 內層低阻抗通道 (Low Z, High Adaptability)
+│ │ Pure Core Pipeline  │ │  <--- 內層低阻抗通道 (Low Z, High Adaptability)
 │ │ ┌─────────────────┐ │ │
-│ │ │ Self-Ref Core  │ │ │  <--- 貫穿軸心：二階控制迴路 (Strange Loop)
+│ │ │  Self-Ref Core  │ │ │  <--- 貫穿軸心：二階控制迴路 (Strange Loop)
 │ │ └─────────────────┘ │ │
 │ └─────────────────────┘ │
 └─────────────────────────┘
-
 外層高阻抗剪切帶 (Conditioned Filter Zone)
 幾何對應：環場最外圍的動態介面（馬可夫毯剪切層，$b$）。
 控制論功能：第一道緩衝濾鏡與既有控制策略庫。由歷史未消化的預測誤差與經驗沉澱而成，具有高控制增益（$\Pi \uparrow$）與高阻抗（$Z \uparrow$），負責抵禦外部高頻衝擊，但同時也會折射並阻算傳入內部的原始資訊。
