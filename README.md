@@ -1,2 +1,53 @@
-# TST-SSCM-Model-v1.2
-A topological and control-theoretic framework for cognitive dynamics, subjectivity, and paradigm shifts in complex adaptive systems.
+# TFT-SSCM Model (v1.2)
+Toroidal Field Topology & System Structure Control Model
+拓撲環場心智控制模型與系統結構控制宣告
+
+## 一、 核心概要
+TFT-SSCM 是一個結合系統控制論（Control Theory）、熱力學經濟性（Thermodynamic Economy）與非歐幾何拓撲（Non-Euclidean Topology）的抽象心智架構模型。
+
+本模型不作微觀物理測量或符號邏輯推導，而是將複雜自適應系統（Complex Adaptive Systems，如人類心智、動態組織或 AGI Agent）表徵為一個處於非平衡態的動態流形（Dynamic Manifold）。其核心宗旨在於提供一套「可穿戴的心智拓撲地圖」，用於解析認知張力、主體性維持機制與範式轉移（Paradigm Shift）。
+
+## 二、 核心假設 (The TFT-SSCM Axioms)
+智慧系統之運作遵循以下四項系統控制學公理：
+
+1. **動態邊界與交換（Dynamic Boundary & Exchange）**
+   系統以馬可夫毯（Markov Blanket）為界，透過環向場與邊界吞吐（Sensory/Active States），實現與環境的能量與資訊交換，無需依賴固態物理硬殼。
+2. **主體性與抵抗力（Gyroscopic Stability）**
+   系統透過內部資訊動態自旋累積角動量，利用陀螺效應維持主體模型的一致性，防止被環境雜訊強行拖拽而失穩。
+3. **熱力學經濟性（Thermodynamic Economy）**
+   當內部表徵模型與真實世界高度一致時，預測誤差趨近於零，系統落入最低維護能量態；反之，若強行維護與現實嚴重衝突的非真實模型（如經不起環境檢驗的防禦性偏見），會引發流形幾何畸變，暴增系統內部應力與維護代價。
+4. **調諧與弛豫（Relaxation Mechanism）**
+   系統在過載或動能不足時，會透過相變與系統弛豫（Relaxation）收縮幾何邊界，釋放內部應力以保護核心結構。
+
+## 三、 三維拓撲結構 (Topological Architecture)
+1. **外層衝突沉澱層 (Conditioned Layer)**
+   * **幾何對應**：環場最外圍的動態介面（馬可夫毯剪切層）。
+   * **系統與認知功能**：防禦機制與既有架構。由過往未消化的衝擊與經驗沉澱而成。作為第一道濾鏡，既緩衝外部衝擊，也會折射並阻擋傳入內部的原始資訊。
+2. **純淨旋渦管道 (Pure Core Pipeline)**
+   * **幾何對應**：環繞中央軸線、具高流動性的內層介質空間。
+   * **系統與認知功能**：原初學習力（初心）。具備低傳導阻力與高可塑性，代表系統底層未被污染的原生學習與模式識別能力。
+3. **拓撲中心奇異點 (Central Singularity)**
+   * **幾何對應**：環場貫穿中心、首尾相連的幾何軸線與動態空洞。
+   * **系統與認知功能**：自我意識怪環（Strange Loop）。系統透過圍繞中央空位循環產生自我引用（Self-reference），作為資訊吞吐與吸引的幾何中心。
+
+## 四、 系統動力學與現象解析
+1. **資訊吞吐與折射 (Throughput & Refraction)**
+   * **同化（Assimilation）**：外部資訊傳入時，若無法穿透外層沉澱結構，會被既有架構強行扭曲並解釋，核心模型保持不變。
+   * **順化（Accommodation）**：高強度衝擊或系統鬆弛時，資訊直接撞擊純淨核心，引發核心幾何重構與範式轉移。
+2. **應力相變與系統狀態 (Systemic Phase Transitions)**
+   * **偏執態（Over-projection）**：內部核心動能過強，內部應力向外推擠，完全以自上而下的預測覆蓋現實，拒絕外在資訊。
+   * **解離態（Collapse/Dissociation）**：外部環境張力遠大於內部角動量，外層沉澱強行擠壓核心，系統失去主體性與穩定度。
+   * **韌性態（Resilience）**：外層形變吸收衝擊，內部動能迅速分散張力，並靠自旋恢復拓撲幾何結構。
+3. **卸載與解構機制 (Unlearn Mechanism)**
+   * 系統恢復學習力的關鍵，在於讓外層沉澱結構剝落。
+   * **降速與弛豫（Relaxation）**：釋放系統焦慮張力，降低外層對背景環境的阻力，使硬化的既有思維塊自然解構成為背景雜訊。
+   * **核心暴露**：沉澱層變薄後，資訊折射消失，外界現實再次直接傳遞至純淨核心，恢復極高可塑性。
+
+## 五、 適用邊界與失效臨界點 (System Boundary)
+TFT-SSCM 專注於「複雜自適應系統之認知張力、主體性維力與範式重塑」。為維護理論的嚴密性與防禦邊界，本模型明確劃定以下不適用領域：
+1. **非物理量化工具**：本模型不適用於純微觀物理分子的量化數據計算。
+2. **非邏輯運算器**：本模型不適用於精確的命題符號邏輯（Symbolic Logic）推導。
+3. **完全無序狀態**：本模型不適用於拓撲結構已完全瓦解、失去自組織能力的徹底無序死寂狀態。
+
+## 六、 License
+This project is licensed under the [MIT License](LICENSE).
