@@ -1,3 +1,12 @@
+---
+
+### 🌐 Theoretical Framework & Related Projects
+本專案為 **Unified Cybernetics & AICA Architecture** 高維控制論系列工程之一：
+
+* **Core Whitepaper**: [AICA Architecture](https://github.com/pekokids77-lab/AICA-Architecture) - 高維統一控制論與 AGI 內省架構白皮書
+* **Control Model**: [TST-SSCM-Model-v1.2](https://github.com/pekokids77-lab/TST-SSCM-Model-v1.2) - 拓撲環場心智控制模型與系統結構控制宣告
+
+---
 # TFT-SSCM Model (v1.2.1)
 ### Toroidal Field Topology & System Structure Control Model
 **拓撲環場心智控制模型與系統結構控制宣告**
