@@ -1,9 +1,7 @@
 🌐 Theoretical Framework & Related Projects
 This project is part of the high-dimensional control systems engineering series under the Unified Cybernetics & AICA Architecture:
 
-Core Whitepaper: AICA Architecture - Unified High-Dimensional Cybernetics & AGI Introspection Architecture Whitepaper
-
-Control Model: TFT-SSCM-Model-v1.2 - (https://github.com/pekokids77-lab/TFT-SSCM-Model-v1.2) Toroidal Field Topology & System Structure Control Model Declaration
+Core Whitepaper: AICA Architecture - (https://github.com/pekokids77-lab/AICA-Architecture) Unified High-Dimensional Cybernetics & AGI Introspection Architecture Whitepaper
 
 Swarm Model: MSAG-Model-v1.0.3 - (https://github.com/pekokids77-lab/MSAG-Model-v1.0.3) Swarm Polarization & Infodemic: Spin Alignment & High-Dimensional Predation Model Manifesto
 
