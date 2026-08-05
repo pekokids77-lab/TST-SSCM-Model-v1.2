@@ -3,13 +3,13 @@ This project is part of the high-dimensional control systems engineering series 
 
 Core Whitepaper: AICA Architecture - Unified High-Dimensional Cybernetics & AGI Introspection Architecture Whitepaper
 
-Control Model: TST-SSCM-Model-v1.2 - Toroidal Field Topology & System Structure Control Model Declaration
+Control Model: TFT-SSCM-Model-v1.2 - (https://github.com/pekokids77-lab/TFT-SSCM-Model-v1.2) Toroidal Field Topology & System Structure Control Model Declaration
 
-Swarm Model: MSAG-Model-v1.0.3 - Swarm Polarization & Infodemic: Spin Alignment & High-Dimensional Predation Model Manifesto
+Swarm Model: MSAG-Model-v1.0.3 - (https://github.com/pekokids77-lab/MSAG-Model-v1.0.3) Swarm Polarization & Infodemic: Spin Alignment & High-Dimensional Predation Model Manifesto
 
-Recovery Model: H-SDRM-Model-v1.1.0 - Helical Decay Oscillation & Systemic Collapse Reconstruction Model Manifesto
+Recovery Model: H-SDRM-Model-v1.1.0 - (https://github.com/pekokids77-lab/H-SDRM-Model-v1.1.0-) Helical Decay Oscillation & Systemic Collapse Reconstruction Model Manifesto
 
-Cognitive Engine: SSCM-Cognitive-Model - Spin-Sphere Cognitive Model (v2.2.1 Patched)
+Cognitive Engine: SSCM-Cognitive-Model - (https://github.com/pekokids77-lab/SSCM-Cognitive-Model) Spin-Sphere Cognitive Model (v3.0 Patched)
 
 TFT-SSCM Model (v1.2.1)
 Toroidal Field Topology & System Structure Control Model
