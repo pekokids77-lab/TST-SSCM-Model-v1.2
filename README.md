@@ -1,118 +1,118 @@
-### 🌐 Theoretical Framework & Related Projects
-本專案為 **Unified Cybernetics & AICA Architecture** 高維控制論系列工程之一：
+🌐 Theoretical Framework & Related Projects
+This project is part of the high-dimensional control systems engineering series under the Unified Cybernetics & AICA Architecture:
 
-* **Core Whitepaper**: [AICA Architecture](https://github.com/pekokids77-lab/AICA-Architecture) - 高維統一控制論與 AGI 內省架構白皮書
-* **Control Model**: [TST-SSCM-Model-v1.2](https://github.com/pekokids77-lab/TST-SSCM-Model-v1.2) - 拓撲環場心智控制模型與系統結構控制宣告
-* **Swarm Model**: [MSAG-Model-v1.0.3](https://github.com/pekokids77-lab/MSAG-Model-v1.0.3) - 群體極化與資訊流行病：自旋對齊與高維掠食模型宣言
-* **Recovery Model**: [H-SDRM-Model-v1.1.0](https://github.com/pekokids77-lab/H-SDRM-Model-v1.1.0-) - 螺旋衰減擺盪與系統崩潰重構模型宣言
-* **Cognitive Engine**: [SSCM-Cognitive-Model](https://github.com/pekokids77-lab/SSCM-Cognitive-Model) - 自旋球態認知模型 (v2.2.1 修復版)
+Core Whitepaper: AICA Architecture - Unified High-Dimensional Cybernetics & AGI Introspection Architecture Whitepaper
 
----
+Control Model: TST-SSCM-Model-v1.2 - Toroidal Field Topology & System Structure Control Model Declaration
 
----
-# TFT-SSCM Model (v1.2.1)
-### Toroidal Field Topology & System Structure Control Model
-**拓撲環場心智控制模型與系統結構控制宣告**
+Swarm Model: MSAG-Model-v1.0.3 - Swarm Polarization & Infodemic: Spin Alignment & High-Dimensional Predation Model Manifesto
 
----
+Recovery Model: H-SDRM-Model-v1.1.0 - Helical Decay Oscillation & Systemic Collapse Reconstruction Model Manifesto
 
-## 一、 核心概要
+Cognitive Engine: SSCM-Cognitive-Model - Spin-Sphere Cognitive Model (v2.2.1 Patched)
 
-**TFT-SSCM** 是一個結合系統控制論（Cybernetics）、資訊理論（Information Theory）、自由能原理（Free Energy Principle, FEP）與非歐幾何拓撲（Non-Euclidean Topology）的抽象心智與控制架構模型。
+TFT-SSCM Model (v1.2.1)
+Toroidal Field Topology & System Structure Control Model
+1. Executive Summary
+The TFT-SSCM is an abstract cognitive and control architecture model synthesizing Cybernetics, Information Theory, the Free Energy Principle (FEP), and Non-Euclidean Topology.
 
-本模型不作微觀神經元生理數據的直接推導，而是將複雜自適應系統（Complex Adaptive Systems，如人類心智、動態組織或 AGI Agent）表徵為一個處於非平衡態的**動態資訊流形（Dynamic Information Manifold）**。其核心宗旨在於提供一套結構化的「心智拓撲與控制論地圖」，用於解析系統的反饋機制、預測誤差張力、主體性維繫與範式轉移（Paradigm Shift）。
+Rather than deriving micro-level neurophysiological metrics directly, this model represents Complex Adaptive Systems (CAS, such as human cognition, dynamic organizations, or AGI Agents) as a Dynamic Information Manifold operating far from equilibrium. Its primary objective is to formulate a structured "Cybernetic & Mind-Topological Map" to analyze system feedback loops, prediction error tension, agency maintenance, and paradigm shifts.
 
----
+2. Cybernetic Axioms & Core Hypotheses (The TFT-SSCM Cybernetic Axioms)
+2.1 Cybernetic States & Variable Notation
+η (Eta): External States
 
-## 二、 核心假設 (The TFT-SSCM Cybernetic Axioms)
+μ (Mu): Internal Representation States
 
-### 1. 控制論狀態與變數符號說明
+b ∈ {s, a}: Markov Blanket Boundary States, comprising Sensory states (s) and Active states (a)
 
-* **η (Eta)**：外部環境狀態 (External States)
-* **μ (Mu)**：內部表徵狀態 (Internal States)
-* **b ∈ {s, a}**：馬可夫毯邊界狀態，含感測狀態 s (Sensory) 與行動狀態 a (Active)
-* **Π (Pi)**：預測誤差之控制增益 / 增幅權重 (Precision / Control Gain)
-* **Z**：資訊流動阻抗 (Information Impedance)
-* **Ω (Omega)**：拓撲環場自旋角速度 / 模式慣性 (Topological Spin / Systemic Inertia)
+Π (Pi): Precision / Control Gain of prediction errors
 
-### 2. 動態邊界與狀態吞吐 (Dynamic Boundary & Exchange via Markov Blanket)
+Z: Information Flow Impedance
 
-系統以馬可夫毯 **b** 劃定動態邊界。系統無法直接存取外部狀態 **η**，必須透過感測狀態 **s** 與行動狀態 **a** 建立環向資訊吞吐迴路（Poloidal Exchange Loop），實現與環境的能量與資訊交換。
+Ω (Omega): Toroidal Field Spin Angular Velocity / Systemic Inertia
 
-### 3. 主體性與系統慣性 (Systemic Inertia & Gyroscopic Stability)
+2.2 Dynamic Boundary & Exchange via Markov Blanket
+The system establishes its dynamic boundary via the Markov blanket b. Incapable of directly accessing external states η, the system constructs a poloidal information exchange loop through sensory states s and active states a to execute energy and information exchanges with the environment.
 
-系統透過內部資訊迴路的動態軸向自旋（**Ω**）累積模式慣性（控制論中的陀螺效應），維繫內部模型 **μ** 的結構一致性，防止系統因瞬時環境雜訊而引發控制器震盪或失穩。
+2.3 Agency & Systemic Inertia (Systemic Inertia & Gyroscopic Stability)
+By accumulating systemic inertia through the dynamic axial spin (Ω) of internal information loops (analogous to the gyroscopic effect in cybernetics), the system maintains the structural consistency of its internal model μ, preventing controller oscillations or instability caused by transient environmental noise.
 
-### 4. 資訊熱力學經濟性 (Information Thermodynamic Economy & FEP)
+2.4 Information Thermodynamic Economy & FEP
+The overarching objective of the system is to minimize Variational Free Energy and Prediction Errors. When the internal representation model μ accurately predicts sensory input s, the system resides in a low-energy maintenance state. Conversely, if the system forcibly maintains a model that sharply conflicts with reality, it must elevate its control gain (Π ↑) to suppress error signals, incurring a steep surge in internal structural stress and regulatory expenditure.
 
-系統宗旨在於最小化變分自由能與預測誤差（Prediction Error）。當內部表徵模型 **μ** 能準確預估感測輸入 **s** 時，系統處於低維護能耗態；反之，若系統強行維護與現實高度衝突的模型，必須提高控制增益（**Π ↑**）來壓制誤差訊號，這將導致內部系統應力與調控代價暴增。
+2.5 Gain Tuning & Structural Relaxation
+When environmental tension exceeds the processing bandwidth of the system or when internal kinetic energy is deficient, the system initiates phase transition and relaxation mechanisms. It attenuates control gain (Π ↓) and contracts its geometric boundaries, releasing internal stress to preserve core structural integrity.
 
-### 5. 增益調諧與系統弛豫 (Gain Tuning & Structural Relaxation)
+3. Topological Architecture
+[ External Environment η ]
 
-當環境張力超過系統處理頻寬（Bandwidth）或內部動能不足時，系統會啟動相變與弛豫（Relaxation）機制，調低控制增益（**Π ↓**）並收縮幾何邊界，釋放內部應力以保護核心結構。
+└─ (Sensory s / Active a)
 
----
+┌────────────────────────┐ <-- Conditioned Filter Zone (High Z, High Π)
 
-## 三、 三維拓撲結構 (Topological Architecture)
+│ Conditioned Filter Zone │
 
-> **[ 外部環境 η ]**  
-> └─ (Sensory s / Active a)  
-> ┌────────────────────────┐ <-- **外層高阻抗剪切帶** (High Z, High Π)  
-> │ Conditioned Filter Zone │  
-> │ ┌───────────────────┐ │ <-- **內層低阻抗通道** (Low Z, High Adaptability)  
-> │ │ Pure Core Pipeline│ │  
-> │ │ ┌───────────────┐ │ │ <-- **貫穿軸心：二階控制迴路** (Strange Loop)  
-> │ │ │ Self-Ref Core │ │ │  
-> │ │ └───────────────┘ │ │  
-> │ └───────────────────┘ │  
-> └────────────────────────┘  
+│ ┌───────────────────┐ │ <-- Pure Core Pipeline (Low Z, High Adaptability)
 
-* **外層高阻抗剪切帶 (Conditioned Filter Zone)**  
-  * **幾何對應**：環場最外圍的動態介面（馬可夫毯剪切層, b）。  
-  * **控制論功能**：第一道緩衝濾鏡與既有控制策略庫。由歷史未消化的預測誤差與經驗沉澱而成，具有高控制增益（Π ↑）與高阻抗（Z ↑），負責抵禦外部高頻衝擊，但同時也會折射並阻算傳入內部的原始資訊。
+│ │ Pure Core Pipeline│ │
 
-* **內層純淨通道 (Pure Core Pipeline)**  
-  * **幾何對應**：環繞中央軸線、具高流動性的內層環向通道。  
-  * **控制論功能**：原初適應力與高可塑性通道（Low-impedance Channel, Z → 0）。具備高學習率，代表系統未被既有模型固化的原生模式識別與調控能力。
+│ │ ┌───────────────┐ │ │ <-- Self-Referential Core (Second-Order Loop)
 
-* **拓撲中心奇異軸心 (Self-Referential Core)**  
-  * **幾何對應**：環場貫穿中心、首尾相連的幾何軸線與動態吸引子。  
-  * **控制論功能**：二階控制迴路（Second-Order Feedback Loop / Strange Loop）。系統在此處對自身的控制狀態進行觀察與自我引用（Self-reference），形成自我意識與目標導向的吸引子中心。
+│ │ │ Self-Ref Core │ │ │
 
----
+│ │ └───────────────┘ │ │
 
-## 四、 系統動力學與現象解析 (System Dynamics)
+│ └───────────────────┘ │
 
-### 1. 資訊吞吐與動態調諧 (Throughput & Adaptability)
+└────────────────────────┘
 
-* **前饋同化 (Feedforward Assimilation)**：外部訊號 **s** 傳入時，若無法穿透外層高阻抗剪切帶，會被既有高增益模型（**Π ↑**）強行修正與解釋，內部核心狀態 **μ** 保持不變。
-* **矩陣順化 (Structural Accommodation)**：當高強度衝擊撞擊或系統啟動弛豫機制（**Π ↓**）時，資訊直接穿透至純淨核心，觸發內部模型 **μ** 重構與控制器範式轉移。
+Conditioned Filter Zone (Outer High-Impedance Shear Zone)
 
-### 2. 應力相變與系統狀態 (Systemic Phase Transitions)
+Geometric Correlation: The dynamic interface at the outermost periphery of the toroidal field (Markov Blanket Shear Layer, b).
 
-* **偏執態 (Over-projection Phase)**：前饋控制權重過高，系統完全以自上而下的預估覆蓋現實反饋，拒絕接收外部誤差訊號（**Π → ∞**）。
-* **解離態 (Dissociation Phase)**：外部環境擾動張力遠大於內部模式慣性（**Ω → 0**），外層防禦強行擠壓核心，系統失去目標導向與穩定度。
-* **韌性態 (Resilience Phase)**：外層結構進行動態形變吸收衝擊，內部迴路迅速分散張力，並靠動態自旋（**Ω**）恢復拓撲幾何穩定。
+Cybernetic Function: The primary buffer filter and repository of legacy control strategies. Formed by accumulated unassimilated prediction errors and historical experiences, it exhibits high control gain (Π ↑) and high impedance (Z ↑). It defends against high-frequency external shocks, but concurrently refracts and impedes raw information entering the interior.
 
-### 3. 卸載與重塑機制 (Unlearn Mechanism)
+Pure Core Pipeline (Inner Low-Impedance Channel)
 
-系統重塑控制模型的關鍵，在於讓外層過載的防禦結構解離。
+Geometric Correlation: High-fluidity inner poloidal channels surrounding the central axis.
 
-* **降速與弛豫 (Relaxation)**：降低控制器增益（**Π ↓**）與焦慮張力，減少對環境訊號的過度反應，使硬化的既有控制模組自然解構成為背景雜訊。
-* **核心暴露與再校準**：外層濾鏡變薄後，誤差訊號折射消失，真實環境反饋 **s** 再次直接輸入至純淨核心，恢復系統的高適應性與可塑性。
+Cybernetic Function: A channel of primordial adaptability and high plasticity (Low-impedance Channel, Z → 0). Characterized by high learning rates, it represents the system's unconditioned pattern recognition and regulatory capacity that has not yet been rigidified by legacy models.
 
----
+Self-Referential Core (Topological Singular Axis)
 
-## 五、 適用邊界與失效臨界點 (System Boundaries)
+Geometric Correlation: The central, end-to-end geometric axis and dynamic attractor penetrating the core of the torus.
 
-TFT-SSCM 專注於「複雜自適應系統之認知張力、控制穩定度與範式重塑」。本模型明確劃定以下不適用領域：
+Cybernetic Function: Second-Order Feedback Loop / Strange Loop. The system observes and executes self-referential evaluations of its own control states here, forming an attractor center for self-awareness and goal-directed orientation.
 
-* **非微觀神經生物學量化工具**：本模型為元控制論與拓撲幾何構架，不直接用於分子神經學或特定腦區電位之微觀數據計算。
-* **非命題邏輯運算器**：本模型不適用於精確的離散符號邏輯（Symbolic Logic）推導。
-* **完全無序與死寂系統**：本模型不適用於反饋迴路已完全斷裂、失去自組織能力與馬可夫毯邊界（b 瓦解）的死寂系統。
+4. System Dynamics
+4.1 Throughput & Adaptability
+Feedforward Assimilation: When external input s arrives, if it cannot penetrate the outer high-impedance shear zone, it is forcibly corrected and interpreted by legacy high-gain models (Π ↑), leaving the internal core state μ unaltered.
 
----
+Structural Accommodation: Under high-intensity impact or upon system relaxation (Π ↓), incoming information directly penetrates into the pure core, triggering a restructuring of internal model μ and a paradigm shift within the controller.
 
-## 六、 License
+4.2 Systemic Phase Transitions
+Over-projection Phase: Excessive feedforward control weight forces the system to completely overwrite reality feedbacks with top-down estimates, rejecting incoming external error signals (Π → ∞).
 
-This project is licensed under the **MIT License**.
+Dissociation Phase: When external environmental disturbances far exceed internal systemic inertia (Ω → 0), outer defenses compress the core forcefully, causing the system to lose goal-directed stability and alignment.
+
+Resilience Phase: The outer structure dynamically deforms to absorb impact while internal loops rapidly dissipate tension, restoring topological geometric stability via dynamic spin (Ω).
+
+4.3 Unlearn Mechanism
+The key to restructuring control models lies in dissociating overloaded defense structures in the outer zone:
+
+Relaxation: Decreasing controller gain (Π ↓) and anxiety-induced tension mitigates hyper-reactivity to environmental signals, allowing hardened legacy control modules to naturally decompose into background noise.
+
+Core Exposure & Recalibration: As the outer filter thins, error signal refraction vanishes. True environmental feedback s feeds directly into the pure core once again, restoring systemic adaptability and plasticity.
+
+5. System Boundaries & Failure Conditions
+TFT-SSCM focuses on "cognitive tension, control stability, and paradigm restructuring in complex adaptive systems." The model explicitly defines the following non-applicable domains:
+
+Non-Micro-Neurobiological Quantification Tool: As a meta-cybernetic and topological geometric framework, this model is not designed for calculating micro-level neurochemical data or specific localized brain potentials.
+
+Non-Propositional Logic Engine: This model is not suited for formal, discrete symbolic logic inferences.
+
+Fully Disordered or Static Systems: This model does not apply to inert systems where feedback loops have completely severed, losing self-organization capabilities and Markov blanket boundaries (b breakdown).
+
+6. License
+This project is licensed under the MIT License.
