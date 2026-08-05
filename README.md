@@ -9,6 +9,8 @@ Recovery Model: H-SDRM-Model-v1.1.0 - (https://github.com/pekokids77-lab/H-SDRM-
 
 Cognitive Engine: SSCM-Cognitive-Model - (https://github.com/pekokids77-lab/SSCM-Cognitive-Model) Spin-Sphere Cognitive Model (v3.0 Patched)
 
+**Architect**: Meridian Lee  
+
 ---
 
 TFT-SSCM Model (v1.2.1)
