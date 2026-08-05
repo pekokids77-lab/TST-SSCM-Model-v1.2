@@ -11,6 +11,8 @@ Recovery Model: H-SDRM-Model-v1.1.0 - (https://github.com/pekokids77-lab/H-SDRM-
 
 Cognitive Engine: SSCM-Cognitive-Model - (https://github.com/pekokids77-lab/SSCM-Cognitive-Model) Spin-Sphere Cognitive Model (v3.0 Patched)
 
+---
+
 TFT-SSCM Model (v1.2.1)
 Toroidal Field Topology & System Structure Control Model
 1. Executive Summary
@@ -32,6 +34,8 @@ Z: Information Flow Impedance
 
 Ω (Omega): Toroidal Field Spin Angular Velocity / Systemic Inertia
 
+---
+
 2.2 Dynamic Boundary & Exchange via Markov Blanket
 The system establishes its dynamic boundary via the Markov blanket b. Incapable of directly accessing external states η, the system constructs a poloidal information exchange loop through sensory states s and active states a to execute energy and information exchanges with the environment.
 
@@ -43,6 +47,8 @@ The overarching objective of the system is to minimize Variational Free Energy a
 
 2.5 Gain Tuning & Structural Relaxation
 When environmental tension exceeds the processing bandwidth of the system or when internal kinetic energy is deficient, the system initiates phase transition and relaxation mechanisms. It attenuates control gain (Π ↓) and contracts its geometric boundaries, releasing internal stress to preserve core structural integrity.
+
+---
 
 3. Topological Architecture
 [ External Environment η ]
@@ -85,6 +91,8 @@ Geometric Correlation: The central, end-to-end geometric axis and dynamic attrac
 
 Cybernetic Function: Second-Order Feedback Loop / Strange Loop. The system observes and executes self-referential evaluations of its own control states here, forming an attractor center for self-awareness and goal-directed orientation.
 
+---
+
 4. System Dynamics
 4.1 Throughput & Adaptability
 Feedforward Assimilation: When external input s arrives, if it cannot penetrate the outer high-impedance shear zone, it is forcibly corrected and interpreted by legacy high-gain models (Π ↑), leaving the internal core state μ unaltered.
@@ -105,6 +113,8 @@ Relaxation: Decreasing controller gain (Π ↓) and anxiety-induced tension miti
 
 Core Exposure & Recalibration: As the outer filter thins, error signal refraction vanishes. True environmental feedback s feeds directly into the pure core once again, restoring systemic adaptability and plasticity.
 
+---
+
 5. System Boundaries & Failure Conditions
 TFT-SSCM focuses on "cognitive tension, control stability, and paradigm restructuring in complex adaptive systems." The model explicitly defines the following non-applicable domains:
 
@@ -113,6 +123,8 @@ Non-Micro-Neurobiological Quantification Tool: As a meta-cybernetic and topologi
 Non-Propositional Logic Engine: This model is not suited for formal, discrete symbolic logic inferences.
 
 Fully Disordered or Static Systems: This model does not apply to inert systems where feedback loops have completely severed, losing self-organization capabilities and Markov blanket boundaries (b breakdown).
+
+---
 
 6. License
 This project is licensed under the MIT License.
